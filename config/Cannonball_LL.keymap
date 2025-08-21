@@ -96,7 +96,7 @@
             sensor-bindings =
                 <&rot_kp LG(Z) LS(LG(Z))>,
                 <&scroll_move_y_fast>,
-                <&rot_kp LG(PLUS) LG(MINUS)>;
+                <&scroll_move_x>;
         };
 
         // MacOS用
