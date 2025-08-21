@@ -90,7 +90,7 @@
 
         DEFAULT_WIN {
             bindings = <
-&mkp MB2  &kp LCTRL  &kp LSHFT  &kp BSPC  &mkp MB3  &mkp MB3  &to 2  &kp DEL  &mkp MB1  &kp LC(R)  &kp LS(TAB)  &kp RET  &mkp MB1  &mkp RCLK  &kp UP_ARROW  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &to DEFAULT_WIN  &kp F11  &to DEFAULT_MAC  &to DEFAULT_WIN  &kp F12  &to DEFAULT_MAC  &kp LC(PAGE_UP)  &kp LC(PAGE_DOWN)  &mkp MB4  &mkp MB5  &bt BT_SEL 0  &bt BT_SEL 1
+&mkp MB2  &kp LCTRL  &kp LSHFT  &kp BSPC  &mkp MB3  &mkp MB3  &to 2  &kp DEL  &mkp MB1  &kp LC(R)  &kp LS(TAB)  &kp RET  &mkp MB1  &mkp RCLK  &kp UP_ARROW  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &to DEFAULT_WIN  &kp F11  &to DEFAULT_MAC  &to DEFAULT_WIN  &kp F12  &to DEFAULT_MAC  &mkp MB5  &mkp MB4  &mkp MB4  &mkp MB5  &bt BT_SEL 0  &bt BT_SEL 1
             >;
 
             sensor-bindings =
