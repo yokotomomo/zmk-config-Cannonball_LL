@@ -94,7 +94,7 @@
             >;
 
             sensor-bindings =
-                <&rot_kp PAGE_DOWN PAGE_DOWN>,
+                <&rot_kp PAGE_DOWN PAGE_UP>,
                 <&scroll_move_y_fast>,
                 <&scroll_move_x>;
         };
